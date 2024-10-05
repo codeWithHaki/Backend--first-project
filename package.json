@@ -1,0 +1,16 @@
+{
+  "name": "backend-practice",
+  "version": "1.0.0",
+  "description": " a basic app for my backend journey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "samisGR8"
+  ],
+  "author": "CODEWITHHAKI",
+  "license": "ISC"
+}
